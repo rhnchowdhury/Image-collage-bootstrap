@@ -1,0 +1,11 @@
+.first-img img {
+    height: 400px;
+}
+
+.middle-img img {
+    height: 250px;
+}
+
+.last-img img {
+    height: 150px;
+}
